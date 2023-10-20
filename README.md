@@ -3,7 +3,8 @@ This code picks between two choices input by the user. It uses the Mac terminal 
 
 Latest version: 1.0
 
-Download it here:https://github.com/matthewyang204/Random_Picker/archive/refs/tags/1.0.zip
+Download it here:
+https://github.com/matthewyang204/Random_Picker/releases/download/1.0/Install.Random.Picker.1.0.dmg
 
 To install:
 1. Download the disk image.
