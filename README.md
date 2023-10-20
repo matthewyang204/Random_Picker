@@ -1,6 +1,19 @@
 # Random_Picker
-This code picks between two choices input by the user. There are two types of files available in this repository. There is the Python file, which you can open using a Python Launcher. The other file is a Unix Executable, which can be launched directly if you own a computer with a Unix operating system. I recommend the Python file for Windows users and the Unix Executable for Mac, Linux, and ChromeOS (not to be confused with the browser) users. Right now, you can only download the .zip file for the source code, which contains a broken executable (no idea how that happened) and a .py file (works fine).
+This code picks between two choices input by the user. It uses the Mac terminal CLI.
 
 Latest version: 1.0
 
 Download it here:https://github.com/matthewyang204/Random_Picker/archive/refs/tags/1.0.zip
+
+To install:
+1. Download the disk image.
+2. Open the disk image and drag the python app to the alias of the Applications folder. Your Mac may prompt you for your admin password; enter it if prompted. The app will now be in the Applications folder.
+
+To use:
+1. Launch the app from the Applications folder.
+2. Follow the prompts in the terminal.
+3. After inputting two items, it will show the item it picked in the terminal.
+
+To update:
+1. Trash the python app in your applications folder.
+2. Follow the installation steps above.
